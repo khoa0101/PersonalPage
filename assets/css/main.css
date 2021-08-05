@@ -1758,6 +1758,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	section.special p{
+		text-align: left;
+	}
+
 	header p {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
